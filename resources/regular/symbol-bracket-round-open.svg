@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="0.75655615mm"
+   height="3.1615541mm"
+   viewBox="0 0 0.75655615 3.1615541"
+   version="1.1"
+   id="svg836"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   sodipodi:docname="symbol-bracket-round-open.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview838"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.2102413"
+     inkscape:cx="-518.45189"
+     inkscape:cy="247.33485"
+     inkscape:window-width="802"
+     inkscape:window-height="480"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs833" />
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-218.59622,-82.73702)">
+    <path
+       d="m 219.05419,85.844645 c -0.0392,-0.02978 -0.10262,-0.138712 -0.141,-0.242071 -0.0384,-0.103359 -0.0968,-0.238489 -0.12987,-0.30029 -0.033,-0.0618 -0.0601,-0.169006 -0.0601,-0.238233 0,-0.06923 -0.0286,-0.149584 -0.0635,-0.178569 -0.0501,-0.04156 -0.0635,-0.161624 -0.0635,-0.568216 0,-0.32676 0.0175,-0.533032 0.0478,-0.563352 0.0535,-0.05349 0.20264,-0.463023 0.20478,-0.562301 8e-4,-0.03522 0.049,-0.0998 0.10722,-0.143513 0.0582,-0.04371 0.10583,-0.122212 0.10583,-0.174443 0,-0.09298 0.13972,-0.170471 0.21901,-0.121468 0.0714,0.0441 0.0317,0.253868 -0.0684,0.361831 -0.11012,0.118756 -0.23511,0.381982 -0.23554,0.496049 -1.3e-4,0.0379 -0.0287,0.123478 -0.0635,0.190169 -0.0813,0.155839 -0.0912,1.026541 -0.012,1.052941 0.0282,0.0094 0.0552,0.08698 0.06,0.1724 0.005,0.08542 0.0389,0.185456 0.0757,0.222298 0.0368,0.03684 0.067,0.109005 0.067,0.160361 0,0.05136 0.0572,0.155946 0.127,0.232423 0.14442,0.158116 0.15479,0.198763 0.06,0.235125 -0.0978,0.03753 -0.15699,0.02975 -0.23709,-0.03114 z"
+       style="fill:#000000;stroke-width:0.0423333"
+       id="path831" />
+  </g>
+</svg>

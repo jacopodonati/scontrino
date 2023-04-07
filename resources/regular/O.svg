@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1.33214mm"
+   height="2.48054mm"
+   viewBox="0 0 1.33214 2.48054"
+   version="1.1"
+   id="svg280"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   sodipodi:docname="O.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview282"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.2102413"
+     inkscape:cx="-80.859469"
+     inkscape:cy="4.7564393"
+     inkscape:window-width="802"
+     inkscape:window-height="480"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs277" />
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-103.78722,-147.25958)">
+    <path
+       d="m 104.51855,149.70902 -0.29153,0.0311 -0.09,-0.0401 -0.09,-0.0401 v -0.0404 -0.0404 l -0.0602,0.0231 -0.0602,0.0231 0.0181,-0.1 0.0181,-0.1 -0.0555,-0.0562 -0.0555,-0.0562 -0.0323,-0.0847 -0.0323,-0.0847 0.004,-0.74831 0.004,-0.74831 0.0469,-0.13466 0.0469,-0.13466 0.14108,-0.059 0.14108,-0.059 0.32944,0.001 0.32944,0.001 0.0741,0.0562 0.0741,0.0562 v 0.0673 0.0673 l 0.0706,0.0395 0.0705,0.0395 -0.009,0.83509 -0.009,0.83509 -0.0743,0.13855 -0.0743,0.13854 -0.071,0.071 -0.071,0.071 -0.29153,0.0312 z m 0.0134,-0.31838 0.0827,-0.0253 0.0579,-0.0579 0.0579,-0.0579 h 0.0423 0.0423 l -0.0206,-0.66675 -0.0206,-0.66675 -0.0214,-0.11989 -0.0214,-0.11988 -0.0774,-0.0587 -0.0774,-0.0587 h -0.14816 -0.14817 l -0.0823,0.0622 -0.0823,0.0622 -0.0127,0.22219 -0.0127,0.22219 -0.004,0.0423 -0.004,0.0423 0.0243,0.52917 0.0243,0.52917 0.15902,0.0727 0.15901,0.0727 0.0827,-0.0253 z"
+       style="display:inline;fill:#000000;stroke-width:0.0423333"
+       id="path275" />
+  </g>
+</svg>
